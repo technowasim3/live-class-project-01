@@ -1,0 +1,229 @@
+
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+/* ----------------------------------  Navigation bar  --------------------------------- */
+
+.container{
+    /* border: 2px solid blue; */
+    justify-content: baseline;
+    width: 100%;
+    height: 100vh;
+}
+
+.navbar-container{
+    /* border: 2px solid red; */
+    display: block;
+    text-align: justify;
+    gap: 2em;
+    height: 18vh;
+}
+
+.navbar-container::after{
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.logo{
+     display: inline-block;
+     width: 135px;
+     height: auto;
+     position: absolute;
+     left: 5rem;
+     top: 2.5rem;
+     cursor: pointer;
+}
+
+.list{
+    text-align: center;
+    margin-top: 3em;
+    justify-content: baseline;
+}
+
+.list-item{
+    display: inline;
+    margin-left: 2rem;
+    font-family: "Orbitron";
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+.list-item:first-child{
+    font-weight:bold;
+    border-bottom: 3px solid;
+}
+
+
+.list-item:hover{
+    font-weight:bolder;
+    cursor: pointer;
+    height: 3px;
+    width: 0;
+    border-bottom: 3px solid;
+    left: 0;
+    bottom: -5px;
+    transition: 0.5s;
+}
+
+.search-icon{
+    text-align: center;
+    position: absolute;
+    top: 38px;
+    right: 150px;
+    cursor: pointer;
+}
+
+.search-icon>svg{
+    width: 20px;
+    height: 50px;
+}
+
+.nav-button{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    font-size: 18px;
+    background: transparent;
+    border: transparent;
+    outline: 2px solid;
+    color: #555555;
+    border-radius: 8px;
+    padding: 2px 16px 2px 16px;
+    cursor: pointer;
+}
+
+.nav-button:hover{
+    background: black;
+    color: white;
+    border: black;
+    outline: black;
+}
+
+/* ------------------------------------------ Hero Section ---------------------------------------- */
+
+.hero-container{
+    /* border: 2px solid violet; */
+    display: inline-block;
+    height: 100vh;
+    position: relative;
+    width: 100%;
+   
+}
+
+.square{
+    position: absolute;
+    top: 10rem;
+    left: 12rem;
+    z-index: -1;
+}
+.square>img{
+    width: 80%;
+    height: auto;
+}
+
+.star1{
+    position: absolute;
+    right: 5rem;
+    top: -1em;
+}
+.star1{
+    width: 4rem;
+    height: 4rem;
+}
+.star2{
+    position: absolute;
+    left: 35rem;
+    top: 25em;
+}
+.star2{
+    width: 3rem;
+    height: 3rem;
+}
+
+.globe{
+    position: absolute;
+    left: 25rem;
+    width: 50px;
+   top: -1em;
+}
+
+.person-image{
+    width: 23%;
+    margin-left: 7rem;
+    height: auto;
+    
+}
+
+.hero-heading{
+    position: absolute;
+    top: 1em;
+    width: 50%;
+    left: 12em;
+    font-family: "Orbitron";
+    font-size: 3.5rem;
+    letter-spacing: 1.5;
+    font-weight: 600;
+}
+
+.hero-description{
+    position: absolute;
+    top: 10em;
+    width: 50%;
+    text-align: center;
+    left: 40rem;
+    font-family: "poppins";
+    font-size: 1rem;
+    color: #555555;
+}
+
+.button-email{
+    position: absolute;
+    top: 15em;
+    left: 48em;
+    font-size: 18px;
+    background: transparent;
+    border: black;
+    outline: 2px solid;
+    color: #555555;
+    font-family: "Orbitron";
+    border-radius: 8px;
+    padding: 2px 16px 2px 16px;
+    cursor: pointer;
+}
+
+.button-join{
+    position: absolute;
+    top: 15em;
+    left: 59em;
+    font-size: 18px;
+    border: transparent;
+    background: black;
+    font-family: "Orbitron";
+    outline: 2px solid;
+    color: white;
+    border-radius: 8px;
+    padding: 2px 16px 2px 16px;
+    cursor: pointer;
+}
+
+.contact-heading{
+    color: #555555;
+    letter-spacing: 1.2;
+    margin-left: 35em;
+    font-family: "Poppins";
+    text-align: center;
+}
+.icons{
+    margin-top: 1em;
+    text-align: center;
+    margin-left: 35em;
+}
+
+/* --------------------------------------- End -------------------------------------------- */
