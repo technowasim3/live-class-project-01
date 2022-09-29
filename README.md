@@ -1,7 +1,10 @@
 #⭐ Project-1: Street Style Landing Page⭐
-## 🔗Project 1 Link
-https://htmlcssproject01.netlify.app/
+## 🔗Project 1 
 
+<br>
+ [Deployed Link]()
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/753204a5-241d-46fe-a9f1-2be38e437b84/deploy-status)](https://app.netlify.com/sites/imaginative-souffle-804564/deploys)
 
 
 ## ⭐ Project-1: Street Style Landing Page⭐
@@ -24,7 +27,7 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 <br>
 
-![Screenshot](./1.png) "Template Screenshot")
+![Screenshot](./1.png)
 
 
 ## 📌 What I Learn
