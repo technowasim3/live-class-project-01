@@ -24,12 +24,11 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 <br>
 
-![Screenshot](./screenshot.png) "Template Screenshot")
+![Screenshot](./) "Template Screenshot")
 
 
 ## 📌 What I Learn
     👉 Structuring **HTML** and **CSS**
-    👉 Flexbox 
     👉 Targeting nested elements and applying CSS on targeted items
     👉 Positions in CSS
     👉 CSS Selectors
@@ -38,11 +37,11 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
     👉 Margin and Paddings
     👉 Designing buttons
 
-## Time taken to complete this project was **1 hr**.
+## Time taken to complete this project was **6 hr**.
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Pratyush Kesarwani](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
+- **LinkedIn** - [Md Wasim Akram](https://www.linkedin.com/in/technowasim3/)
 
 ## 📌 Acknowledgments
 
