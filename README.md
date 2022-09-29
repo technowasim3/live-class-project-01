@@ -24,7 +24,7 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 <br>
 
-![Screenshot](./) "Template Screenshot")
+![Screenshot](./1.png) "Template Screenshot")
 
 
 ## 📌 What I Learn
