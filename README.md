@@ -1,6 +1,4 @@
-⭐ Project-1: Street Style Landing Page⭐
-
-## 🔗Project 1 
+# 🔗Project 1 
 
 <br>
  Deployed Link - https://wasim-project-01.netlify.app
