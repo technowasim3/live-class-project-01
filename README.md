@@ -2,7 +2,7 @@
 ## 🔗Project 1 
 
 <br>
- [Deployed Link](https://wasim-project-01.netlify.app/)
+ [Deployed Link] (https://wasim-project-01.netlify.app/)
 
 
 ## ⭐ Project-1: Street Style Landing Page⭐
