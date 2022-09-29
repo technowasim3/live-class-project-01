@@ -119,9 +119,10 @@
 
 .square{
     position: absolute;
-    top: 10rem;
-    left: 12rem;
+    top: 22vh;
+    left: 13vw;
     z-index: -1;
+    height: auto;
 }
 .square>img{
     width: 80%;
@@ -174,20 +175,20 @@
 
 .hero-description{
     position: absolute;
-    top: 10em;
+    top: 19vh;
     width: 50%;
     text-align: center;
-    left: 40rem;
+    left: 43vw;
     font-family: "poppins";
-    font-size: 1rem;
+    font-size: 1.3vw;
     color: #555555;
 }
 
 .button-email{
     position: absolute;
-    top: 15em;
-    left: 48em;
-    font-size: 18px;
+    top: 40vh;
+    left: 58vw;
+    font-size: 1vw;
     background: transparent;
     border: black;
     outline: 2px solid;
@@ -200,9 +201,9 @@
 
 .button-join{
     position: absolute;
-    top: 15em;
-    left: 59em;
-    font-size: 18px;
+    top: 40vh;
+    left: 69vw;
+    font-size: 1vw;
     border: transparent;
     background: black;
     font-family: "Orbitron";
